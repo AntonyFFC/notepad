@@ -10,4 +10,4 @@ You also have a couple of options at the top of the screen, with which you can o
 
 ## Screenshots
 
-![fas]()
+![screenshot](https://raw.githubusercontent.com/AntonyFFC/notepad/main/fas.jpg)
